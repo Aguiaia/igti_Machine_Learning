@@ -20,6 +20,12 @@
 * Exploração e generalização.
 * Algoritmos supervisionados, não-supervisionados e treinamento por reforço.
 #### Módulo 6 - Desafio final
+* Pré-processamento dos dados.
+* Detecção de anomalias.
+* Processamento dos dados.
+* Correlações.
+* Redução da dimensionalidade.
+* Algoritmos supervisionados e não supervisionados.
 
 
 
